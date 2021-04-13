@@ -20,7 +20,7 @@ Calcultarice utilisant les notations RPM. Cette calculatrice affiche les quatre 
 
 Bouton :
 - **0 - 9** : ajout d'un chiffre au premier élément de la pile.
-- **\+ \- \x \%** : Opérateurs. Effectue l'opération spécifiée entre les deux premiers éléments de la pile.
+- **\+ \- x \%** : Opérateurs. Effectue l'opération spécifiée entre les deux premiers éléments de la pile.
 - **AC** : Efface le premier élément de la pile
 - **Ent** : Ajoute 0 à la pile et décale les éléments déjà dans la pile.
 - **XY** : échange les deux permiers éléments de la pile
